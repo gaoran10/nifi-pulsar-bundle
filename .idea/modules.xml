@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nifi-pulsar-bundle.iml" filepath="$PROJECT_DIR$/nifi-pulsar-bundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-pulsar-client-service/nifi-pulsar-client-service.iml" filepath="$PROJECT_DIR$/nifi-pulsar-client-service/nifi-pulsar-client-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-pulsar-client-service-api/nifi-pulsar-client-service-api.iml" filepath="$PROJECT_DIR$/nifi-pulsar-client-service-api/nifi-pulsar-client-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-pulsar-client-service-nar/nifi-pulsar-client-service-nar.iml" filepath="$PROJECT_DIR$/nifi-pulsar-client-service-nar/nifi-pulsar-client-service-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-pulsar-nar/nifi-pulsar-nar.iml" filepath="$PROJECT_DIR$/nifi-pulsar-nar/nifi-pulsar-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-pulsar-processors/nifi-pulsar-processors.iml" filepath="$PROJECT_DIR$/nifi-pulsar-processors/nifi-pulsar-processors.iml" />
+    </modules>
+  </component>
+</project>
